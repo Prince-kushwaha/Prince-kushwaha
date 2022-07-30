@@ -2,7 +2,6 @@
 
 ### I,m 3nd year CSE Undergrad at krishna engineering college 😄
 
-- 🔭 Android Development.
 - 🌱 Trying my hands on Web dev and competitive programming
 
 
