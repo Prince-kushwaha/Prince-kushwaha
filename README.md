@@ -1,6 +1,5 @@
 ## Hey, I'm Prince ✌
 
-### I,m 4nd year CSE Undergrad at krishna engineering college 😄
 
 - 🌱 Trying my hands on Web dev and competitive programming
 
