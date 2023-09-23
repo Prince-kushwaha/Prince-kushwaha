@@ -4,7 +4,7 @@
 ## Tech Stack
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=flask,nodejs,mongodb,aws,reactjs,linux" alt="docker,linux" />
+    <img src="https://skillicons.dev/icons?i=angular,dotnet,express,mysql,nodejs,mongodb,aws,reactjs,sql" alt="docker,linux" />
   </a>
 </p>
 
