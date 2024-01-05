@@ -28,11 +28,11 @@
 ## 🧑🏻‍💻 Open Source Experience 
 
 #### Wikimedia Commons
-- **Implemented a new feature that shows captions and descriptions in multiple languages.**[here](https://github.com/commons-app/apps-android-commons/pull/4355)
+- **Implemented a new feature that shows captions and descriptions in multiple languages.** [here](https://github.com/commons-app/apps-android-commons/pull/4355)
 - **Add feature to suggest recently selected items in search bar.** [here](https://github.com/commons-app/apps-android-commons/pull/4361)
-- **I have raised more than 50 Pull Requests and solved 70++ issues** [here](https://github.com/commons-app/apps-android-commons/commits?author=Prince-kushwaha).
-#### AnkiDroid App
-- **I have raised more than 50 Pull Requests and solved 70++ issues**[here](https://github.com/ankidroid/Anki-Android/commits?author=Prince-kushwaha)
+- **I have raised more than 25 Pull Requests and 25 are merged.** [here](https://github.com/commons-app/apps-android-commons/commits?author=Prince-kushwaha).
+#### AnkiDroid
+- **I have raised more than 25 Pull Requests and 25 are merged.** [here](https://github.com/ankidroid/Anki-Android/commits?author=Prince-kushwaha)
 
 ## 🏆 *Github Status*
 
