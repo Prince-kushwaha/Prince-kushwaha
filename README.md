@@ -21,9 +21,15 @@
 ## 💼 *Professional Experience*
 
 ####  Associate Software Engineer [Nagarro](https://www.nagarro.com/en)
-- **Developed RESTful APIs in ASP.NET Core Web Api to handle client-server communication**
-- **Developed and maintained web applications using AngularJS framework**
-- **Upgraded system from .NET 5 to .NET 7, resulting in 50% performance improvement**
+- **Implemented an in-memory caching mechanism to enhance application performance by reducing data retrieval latency**
+- **Optimized API performance through code profiling.**
+- **Developed and implemented the email notification service within the API framework, enhancing user engagement and
+communication capabilities**
+- **Developed shape drawing and moving features in application using SVG.js and D3.js library. Enhanced user interaction and
+visualization capabilities.**
+- **Separated command and query responsibilities for improved code organization and Integrated Mediator pattern for decoupled
+communication between components.**
+
 
 ## 🧑🏻‍💻 Open Source Experience 
 
