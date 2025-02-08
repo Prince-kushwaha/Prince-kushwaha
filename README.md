@@ -21,15 +21,22 @@
 ## 💼 *Professional Experience*
 
 ####  Associate Software Engineer [Nagarro](https://www.nagarro.com/en)
-- **Implemented an in-memory caching mechanism to enhance application performance by reducing data retrieval latency**
-- **Optimized API performance through code profiling.**
-- **Developed and implemented the email notification service within the API framework, enhancing user engagement and
-communication capabilities**
-- **Developed shape drawing and moving features in application using SVG.js and D3.js library. Enhanced user interaction and
-visualization capabilities.**
-- **Separated command and query responsibilities for improved code organization and Integrated Mediator pattern for decoupled
-communication between components.**
+- **Currently working on transition from a monolithic architecture to a microservices architecture, identifying common
+functionalities and converting them into reusable packages to reduce duplicate code across services.**
+- **Led the migration of a legacy application from .NET Core 2.2 to .NET 8, improving system performance by 30% and
+reducing runtime errors by 40%. Resolved compatibility issues with third-party libraries and updated dependencies to their
+latest versions.**
+- **Developed a dedicated Service to offload resource-intensive tasks from the main application, improving overall system
+performance. Integrated the service with the existing application using message queues (Azure Bus) for asynchronous
+communication**
+- **Created a comprehensive package encompassing common business logic and services, including extensive test cases.
+This package is currently used across multiple projects with plans for future integration in additional initiatives. It reduced
+duplicate code by 15% in SonarQube, while increasing test coverage quality by 20%.**
 
+####  Software Engineer Intern [Nagarro](https://www.nagarro.com/en)
+- **Designed and implemented an email notification service within the API framework**
+- **Leveraged SVG.js and D3.js to develop a feature allowing users to create, move, and resize shapes. Implemented dragand-drop and scaling functionalities, reducing user effort by 25%**
+- **Optimized API performance through Code profiling.**
 
 ## 🧑🏻‍💻 Open Source Experience 
 
