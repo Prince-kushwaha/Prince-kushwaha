@@ -20,7 +20,7 @@
 
 ## 💼 *Professional Experience*
 
-####  Associate Software Engineer [Nagarro](https://www.nagarro.com/en)
+#### Software Engineer [Nagarro](https://www.nagarro.com/en)
 - **Currently working on transition from a monolithic architecture to a microservices architecture, identifying common
 functionalities and converting them into reusable packages to reduce duplicate code across services.**
 - **Led the migration of a legacy application from .NET Core 2.2 to .NET 8, improving system performance by 30% and
