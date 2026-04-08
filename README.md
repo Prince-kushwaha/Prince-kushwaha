@@ -25,7 +25,7 @@
 - Automated development workflows using **GitHub Copilot agents and skills**, improving engineering productivity and code consistency.
 - Designed **low-level architecture** for critical modules, including class structures, API contracts, and data models to support scalability and maintainability.
 - Built and implemented a **rate limiting solution** to prevent API abuse, improve system reliability, and reduce unauthorized requests.
-- 
+  
 #### Software Engineer | Nagarro                                                                                                           **Mar 2023 – Aug 2025**
 
 - Contributed to the migration from a **monolithic architecture to microservices**, identifying reusable functionalities and converting them into shared packages to reduce code duplication across services.
