@@ -20,24 +20,27 @@
 
 ## 💼 *Professional Experience*
 
-#### Software Engineer [Nagarro](https://www.nagarro.com/en)
-- **Currently working on transition from a monolithic architecture to a microservices architecture, identifying common
-functionalities and converting them into reusable packages to reduce duplicate code across services.**
-- **Led the migration of a legacy application from .NET Core 2.2 to .NET 8, improving system performance by 30% and
-reducing runtime errors by 40%. Resolved compatibility issues with third-party libraries and updated dependencies to their
-latest versions.**
-- **Developed a dedicated Service to offload resource-intensive tasks from the main application, improving overall system
-performance. Integrated the service with the existing application using message queues (Azure Bus) for asynchronous
-communication**
-- **Created a comprehensive package encompassing common business logic and services, including extensive test cases.
-This package is currently used across multiple projects with plans for future integration in additional initiatives. It reduced
-duplicate code by 15% in SonarQube, while increasing test coverage quality by 20%.**
+### Software Engineer | Securiton AG                                                                                                     **Sept 2025 – Present**
 
-####  Software Engineer Intern [Nagarro](https://www.nagarro.com/en)
-- **Designed and implemented an email notification service within the API framework**
-- **Leveraged SVG.js and D3.js to develop a feature allowing users to create, move, and resize shapes. Implemented dragand-drop and scaling functionalities, reducing user effort by 25%**
-- **Optimized API performance through Code profiling.**
+- Automated development workflows using **GitHub Copilot agents and skills**, improving engineering productivity and code consistency.
+- Designed **low-level architecture** for critical modules, including class structures, API contracts, and data models to support scalability and maintainability.
+- Built and implemented a **rate limiting solution** to prevent API abuse, improve system reliability, and reduce unauthorized requests.
+---
 
+### Software Engineer | Nagarro                                                                                                           **Mar 2023 – Aug 2025**
+
+- Contributed to the migration from a **monolithic architecture to microservices**, identifying reusable functionalities and converting them into shared packages to reduce code duplication across services.
+- Designed and deployed an **Azure Function App (CRON-based)** to integrate **Snowflake** with backend services, enabling automated validation of **Purchase** service selection and improving data accuracy by **100%**.
+- Led the migration of a legacy application from **.NET Core 2.2 to .NET 8**, improving system performance by **30%** and reducing runtime errors by **40%**.
+- Resolved compatibility issues with third-party libraries and modernized dependencies to ensure stability and long-term maintainability.
+- Designed and deployed an automated **Azure WebJob** to process third-party product data, reducing manual update effort by **90%** and improving real-time product data availability.
+- Developed a dedicated **background processing service** to offload resource-intensive operations from the main application, improving overall system performance and responsiveness.
+- Integrated distributed components using **Azure Service Bus** to enable asynchronous, reliable communication between services.
+- Built a reusable **shared business logic package** with extensive test coverage, adopted across multiple projects and reducing duplicate code by **15%** in **SonarQube**.
+- Improved test quality and maintainability, increasing effective test coverage by **20%**.
+- Developed and maintained enterprise-grade **RESTful Web APIs** using **.NET Core**.
+- Developed and enhanced **Angular applications**, improving application performance and user experience.
+  
 ## 🧑🏻‍💻 Open Source Experience 
 
 #### Wikimedia Commons
