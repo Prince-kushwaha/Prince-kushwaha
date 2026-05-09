@@ -9,7 +9,6 @@
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" style="margin:2px;"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin:2px;"/>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" style="margin:2px;"/>
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin:2px;"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" style="margin:2px;"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
@@ -22,24 +21,31 @@
 
 #### Software Engineer | Securiton AG                                                                                                     **Sept 2025 – Present**
 
-- Automated development workflows using **GitHub Copilot agents and skills**, improving engineering productivity and code consistency.
-- Designed **low-level architecture** for critical modules, including class structures, API contracts, and data models to support scalability and maintainability.
-- Built and implemented a **rate limiting solution** to prevent API abuse, improve system reliability, and reduce unauthorized requests.
+- Automated development workflows using GitHub Copilot agents and AI-assisted engineering practices, reducing development time and improving code consistency across teams.
+
+- Designed low-level system architecture for critical modules, including class structures, API contracts, and data models to ensure scalability and maintainability.
+
+- Migrated a legacy monolithic application to a microservices architecture, improving scalability, fault isolation, and deployment efficiency, while enabling independent service scaling to support 3× higher traffic and reducing overall system response time by 50%.
   
+- Built a distributed rate-limiting system, reducing API abuse and improving system reliability under peak load conditions.
+    
 #### Software Engineer | Nagarro                                                                                                           **Mar 2023 – Aug 2025**
 
-- Contributed to the migration from a **monolithic architecture to microservices**, identifying reusable functionalities and converting them into shared packages to reduce code duplication across services.
-- Designed and deployed an **Azure Function App (CRON-based)** to integrate **Snowflake** with backend services, enabling automated validation of **Purchase** service selection and improving data accuracy by **100%**.
-- Led the migration of a legacy application from **.NET Core 2.2 to .NET 8**, improving system performance by **30%** and reducing runtime errors by **40%**.
-- Resolved compatibility issues with third-party libraries and modernized dependencies to ensure stability and long-term maintainability.
-- Designed and deployed an automated **Azure WebJob** to process third-party product data, reducing manual update effort by **90%** and improving real-time product data availability.
-- Developed a dedicated **background processing service** to offload resource-intensive operations from the main application, improving overall system performance and responsiveness.
-- Integrated distributed components using **Azure Service Bus** to enable asynchronous, reliable communication between services.
-- Built a reusable **shared business logic package** with extensive test coverage, adopted across multiple projects and reducing duplicate code by **15%** in **SonarQube**.
-- Improved test quality and maintainability, increasing effective test coverage by **20%**.
-- Developed and maintained enterprise-grade **RESTful Web APIs** using **.NET Core**.
-- Developed and enhanced **Angular applications**, improving application performance and user experience.
-  
+- Implemented gRPC-based microservice communication, reducing inter-service latency by 40% and improving request throughput by 2× compared to traditional REST APIs.
+
+- Developed and integrated Webhooks to enable real-time event-driven notifications between third-party platforms and internal services, improving data freshness and reducing polling overhead.
+
+- Built a scalable background processing service integrated with Azure Service Bus, offloading resource-intensive workloads from the core application, improving system responsiveness by 45%, and ensuring reliable asynchronous task execution at scale.
+
+- Migrated legacy background processing services to automated Azure Web Jobs and serverless Azure Functions, reducing response time by 50%, improving application performance, and enabling scalable event-driven execution with lower infrastructure overhead.
+
+- Implemented concurrency controls and thread-safe patterns in high-throughput services to prevent race conditions and ensure data consistency across distributed system environments.
+
+- Led migration of a legacy application from .NET Core 2.2 to .NET 8, improving system performance by 30% and reducing runtime errors by 40% by resolving third-party library compatibility issues.
+
+- Set up and maintained CI/CD pipelines using Azure DevOps, automating build, test, and deployment workflows across staging and production environments.
+
+- Implemented NgRx/Signal-based state management, reducing unnecessary API calls and improving frontend data flow efficiency by 40%.  
 ## 🧑🏻‍💻 Open Source Experience 
 
 #### Wikimedia Commons
